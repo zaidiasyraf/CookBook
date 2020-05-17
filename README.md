@@ -1,2 +1,2 @@
 # CookBook
-Try to learn git
+Italian Cookbook
